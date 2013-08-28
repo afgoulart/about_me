@@ -1,0 +1,71 @@
+# Vaga #
+
+ > Área de Esportes
+
+# CV #
+
+## DADOS PESSOAL ##
+	* André Filipe de Moraes Goulart
+	* Brasileiro
+	* End. Rua Comandante Mário Lahmeyer, 327 / casa 03
+	* 24 anos
+	* Colégio - Rio de Janeiro - RJ – CEP 21.371-490
+	* Solteiro
+	* E-mail: afgoulart.rj@gmail.com
+	* Tel.: (21) 8119 7763 / (21) 2489 0217
+
+## OBJETIVO ##
+
+	* Atuar com ética e energia, contribuindo com meus conhecimentos para agregar valor à empresa, ao mesmo tempo em que construo valores e invisto no desenvolvimento pessoal.
+
+## FORMAÇÃO ACADÊMICA ##
+	* Graduação de Sistema da Informação (3º Período) - Cursando
+	* Graduação Tecnológica em Sistemas para Internet, 2008.1 – 2010.2, Universidade Estácio de Sá - Concluído
+	* Ensino Médio – Escola Estadual Cabo Verde – 2005 - 2007
+	* Curso de Inglês – WiseUp (Basico II)
+
+## QUALIFICAÇÃO EM TI ##
+	1.	Sistemas Operacionais
+		* Instalação, configuração e manutenção de sistema operacional
+		* Windows – Intermediário (XP, Vista, Seven)
+		* Linux – Intermediário
+	2.	Pacote Office
+		* MS Word – Avançado
+		* MS Access – Intermediário
+		* MS Excel – Avançado
+		* MS Power Point – Avançado
+		* BrOffice – Avançado
+	3.	Ferramentas Gráficas
+		* Corel Draw – Intermediário
+		* Photoshop  – Intermediário
+		* FireWorks  – Intermediário
+	4.	Ferramentas Web
+		* Criação de página HTML – Intermediário 
+		* HTML5 – Básico
+		* Design Responsível – Intermediário
+		* Programação em Asp, XML, VB, PHP – Básico
+		* Criação de Plugins jQuery - Intermediário
+		* Criação e manutenção de layout em Web Sites – Intermediário
+		* Edição e construção de arquivos FITS – Intermediário
+		* Expressões Regulares com Javascript e Python – Intermediário
+		* Utilização de Ajax – Intermediário
+		* AngularJS e Jasmine - Iniciante
+	5.	Administração e Criação de Banco de Dados
+		* Banco de Dados – PostegreSQL – Intermediário 
+		* Linguagem de Programação Python – Intermediário
+	6.	Administração e Criação de Redes
+		* Implementação de rede física e lógica
+	7.	Suporte e Manutenção de Hardware 
+		* Instalação, configuração e manutenção de hardware
+
+## HABILIDAES PESSOAIS ##
+	* Facilidades nos Trabalhos em Equipe.
+	* Facilidade nos Relacionamentos Interpessoais.
+	* Facilidades em Ciencias Exatas
+	* Trabalho Voluntário: Voluntário em duas ONGs, com foco na proteção ambiental e inclusão social de jovens em situação de risco.
+
+## TRAJETÓRIA PROFISSIONAL ##
+	* RR Donnolley – Programador HTML. 02/2012 - Atual
+	* Observatório Nacional – GPA – Participação nos projetos DES-BRAZIL, CITIO, SLOAN, Astrosoft e LINEA. 05/2009 – 12/2010
+	* Estagio na São Jorge Cascadura Atacadista como “Desenvolvedor Web”. 01/2009 – 04/2009
+	* Estágio na Transmagno Transportes Rodoviário Ltda. como Auxiliar Administrativo com atuação em áreas administrativas, informática e logística - 07/2006 -12/2006

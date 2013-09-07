@@ -1,11 +1,8 @@
-# Vaga #
- > Área de Esportes
-
-# CV #
+# Currículo Vitae #
 
 ## DADOS PESSOAL ##
  * André Filipe de Moraes Goulart
- * Brasileiro - Solteiro - 24 anos
+ * Brasileiro - Solteiro - 1988
  * End. Rua Comandante Mário Lahmeyer, 327 / casa 03
  * Colégio - Rio de Janeiro - RJ – CEP 21.371-490
  * E-mail: afgoulart.rj@gmail.com
@@ -40,7 +37,7 @@
   * FireWorks  – Intermediário
  4. Ferramentas Web
   * Criação de página HTML – Intermediário 
-  * HTML5 – Básico
+  * HTML5 – Intermediário
   * Design Responsível – Intermediário
   * Programação em Asp, XML, VB, PHP – Básico
   * Criação de Plugins jQuery - Intermediário
@@ -48,10 +45,14 @@
   * Edição e construção de arquivos FITS – Intermediário
   * Expressões Regulares com Javascript e Python – Intermediário
   * Utilização de Ajax – Intermediário
-  * AngularJS e Jasmine - Iniciante
- 5. Administração e Criação de Banco de Dados
-  * Banco de Dados – PostegreSQL – Intermediário 
+  * AngularJS e Jasmine - Básico
+  * Web Mobile - Básico
+  * Desenvolvimento Responsivo - Intermediário
   * Linguagem de Programação Python – Intermediário
+ 5. Administração e Criação de Banco de Dados
+  * PostegreSQL – Intermediário
+  * MySQL - Intermediário
+  * SQL Server 2008 - Básico
  6. Administração e Criação de Redes
   * Implementação de rede física e lógica
  7. Suporte e Manutenção de Hardware 

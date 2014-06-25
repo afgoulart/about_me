@@ -38,16 +38,19 @@
   * Criação de página HTML – Intermediário 
   * HTML5 – Intermediário
   * Design Responsível – Intermediário
-  * Programação em Asp, XML, VB, PHP – Básico
+  * Asp clássico - Intermediário
+  * XML, VB - Básico
+  * PHP – Intermediário
   * Criação de Plugins jQuery - Intermediário
   * Criação e manutenção de layout em Web Sites – Intermediário
   * Edição e construção de arquivos FITS – Intermediário
   * Expressões Regulares com Javascript e Python – Intermediário
   * Utilização de Ajax – Intermediário
-  * AngularJS e Jasmine - Básico
+  * AngularJS - Intermediário
+  * Jasmine - Intermediário
   * Backbone e Undescore - Intermediário
   * RequireJS - Intermediário
-  * Web Mobile - Básico
+  * Web Mobile - Intermediário
   * Desenvolvimento Responsivo - Intermediário
   * Linguagem de Programação Python – Intermediário
  5. Administração e Criação de Banco de Dados

@@ -10,7 +10,8 @@
  * FB: http://www.facebook.com/afgoulart.rj
  * Tw: @afgoulart
  * in: http://br.linkedin.com/in/afgoulart
-
+ * en: http://afgoulart.github.io/en/about_me *in progress
+ 
 ## OBJETIVO ##
  * Atuar com ética e energia, contribuindo com meus conhecimentos para agregar valor à empresa, ao mesmo tempo em que construo valores e invisto no desenvolvimento pessoal.
 
@@ -32,9 +33,9 @@
   * BrOffice – Intermediário
  3. Ferramentas Web
   * HTML5 – Intermediário
-  * CSS3 - Intermediário
-  * AngularJS - Intermediário
-  * ReactJS - Intermediário
+  * CSS3 - Intermediário
+  * AngularJS - Básico
+  * ReactJS - Intermediário
   * NodeJS - Intermediário
   * Design Responsível – Intermediário
   * RequireJS - Intermediário

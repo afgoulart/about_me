@@ -19,46 +19,23 @@
  * Graduação Tecnológica em Sistemas para Internet, 2008.1 – 2010.2, Universidade Estácio de Sá - Concluído
  * Ensino Médio – Escola Estadual Cabo Verde – 2005 - 2007
 
+## CERTIFICAÇÕES ##
+ * Front-End JavaScript Frameworks: AngularJS – 2017 - 2017, The Hong Kong University of Science and Technology
+ * HTML, CSS and JavaScript – 2017 - 2017, The Hong Kong University of Science and Technology
+ * Server-side Development with NodeJS – 2017 - 2017, The Hong Kong University of Science and Technology
+
 ## QUALIFICAÇÃO EM TI ##
- 1. Sistemas Operacionais
-  * Instalação, configuração e manutenção de sistema operacional
-  * Windows – Intermediário (XP, Vista, Seven)
-  * Linux – Intermediário
- 2. Pacote Office
-  * MS Word – Avançado
-  * MS Access – Intermediário
-  * MS Excel – Intermediário
-  * MS Power Point – Avançado
-  * BrOffice – Intermediário
- 3. Ferramentas Web
-  * HTML5 – Intermediário
-  * CSS3 - Intermediário
-  * AngularJS - Intermediário
-  * ReactJS - Intermediário
-  * NodeJS - Intermediário
-  * Design Responsível – Intermediário
-  * RequireJS - Intermediário
-  * Web Mobile - Intermediário
-  * Desenvolvimento Responsivo - Intermediário
-  * Backbone e Undescore - Intermediário
-  * Linguagem de Programação Python – Intermediário
-  * Expressões Regulares com Javascript e Python – Intermediário
-  * Criação de Plugins jQuery - Intermediário
-  * Asp clássico - Intermediário
-  * XML, VB - Básico
-  * PHP – Intermediário
-  * Edição e construção de arquivos FITS – Intermediário
- 4. Testes E2E e Unit
-  * DalekJS - Intermediário
-  * CasperJS - Básico
-  * NightwatchJS - Intermediário
-  * Jasmine - Intermediário
-  * Mocha - Intermediário
- 5. Administração e Criação de Banco de Dados
-  * Mongo - Intermediário
-  * PostegreSQL – Intermediário
-  * MySQL - Intermediário
-  * SQL Server 2008 - Básico
+  * HTML5
+  * CSS3
+  * AngularJS
+  * ReactJS
+  * NodeJS
+  * GoLang
+  * Design Responsível
+  * Desenvolvimento Responsivo
+  * Linguagem de Programação Python
+  * Testes E2E e Unit - DalekJS, CasperJS, NightwatchJS, Jasmine, Mocha
+  * BD - Mongo, PostegreSQL, MySQL, SQL Server 2008
 
 ## LÍNGUAS ##
  * Inglês Técnico
@@ -71,7 +48,7 @@
  * Trabalho Voluntário: Voluntário em duas ONGs, com foco na proteção ambiental e inclusão social de jovens em situação de risco.
 
 ## TRAJETÓRIA PROFISSIONAL ##
- * B2W Digital | Submarino.com.br - Desenvolvedor Front-End - 10/2014 - Atual
+ * B2W Digital | Submarino.com.br - Desenvolvedor FullStack (Team Leader) - 10/2014 - Atual
  * RR Donnelley - Desenvolvedor Front-End - 03/2013 - 09/2014
  * RR Donnelley – Freelance em Desenvolvimento Front-End. 02/2012 - 02/2013
  * Observatório Nacional – GPA – Participação nos projetos DES-BRAZIL, CITIO, SLOAN, Astrosoft e LINEA. 05/2009 – 12/2010

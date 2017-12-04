@@ -6,16 +6,13 @@
  * End. Rua Comandante Lahmeyer, 327 / casa 03
  * Colégio - Rio de Janeiro - RJ – CEP 21.371-490
  * E-mail: afgoulart.rj@gmail.com
- * Tel.: (21) 98119 7763 / (21) 2489 0217
- * FB: http://www.facebook.com/afgoulart.rj
- * Tw: @afgoulart
+ * Tel.: (21) 98536 4597 / (21) 2489 0217
  * in: http://br.linkedin.com/in/afgoulart
 
 ## OBJETIVO ##
  * Atuar com ética e energia, contribuindo com meus conhecimentos para agregar valor à empresa, ao mesmo tempo em que construo valores e invisto no desenvolvimento pessoal.
 
 ## FORMAÇÃO ACADÊMICA ##
- * Graduação de Sistema da Informação (3º Período), 2011.2 - Incompleto
  * Graduação Tecnológica em Sistemas para Internet, Universidade Estácio de Sá, 2008.1 – 2010.2
  * Ensino Médio – Escola Estadual Cabo Verde – 2005 - 2007
 
@@ -31,11 +28,12 @@
   * ReactJS
   * NodeJS
   * GoLang
+  * Python
+  * PHP
   * Design Responsível
   * Desenvolvimento Responsivo
-  * Linguagem de Programação Python
   * Testes E2E e Unit - DalekJS, CasperJS, NightwatchJS, Jasmine, Mocha
-  * BD - Mongo, PostegreSQL, MySQL, SQL Server 2008
+  * BD - Mongo, PostegreSQL, MySQL, SQL Server 2008, Maria
 
 ## LÍNGUAS ##
  * Inglês Técnico

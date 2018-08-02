@@ -2,7 +2,7 @@
 
 ## DADOS PESSOAL ##
  * André Filipe de Moraes Goulart
- * Brasileiro - Solteiro - 1988
+ * Brasileiro - Casado - 1988
  * End. Rua Comandante Lahmeyer, 327 / casa 03
  * Colégio - Rio de Janeiro - RJ – CEP 21.371-490
  * E-mail: afgoulart.rj@gmail.com
@@ -30,10 +30,11 @@
   * GoLang
   * Python
   * PHP
-  * Design Responsível
-  * Desenvolvimento Responsivo
-  * Testes E2E e Unit - DalekJS, CasperJS, NightwatchJS, Jasmine, Mocha
+  * Docker
+  * Design Responsível - Mobile First
+  * Testes E2E e Unit - DalekJS, CasperJS, NightwatchJS, Jasmine, Mocha, Chai
   * BD - Mongo, PostegreSQL, MySQL, SQL Server 2008, Maria
+  * AWS (ElasticBeanstalk, ECS, RDS, CloudWatch, Lambda, SQS, LB)
 
 ## LÍNGUAS ##
  * Inglês Técnico

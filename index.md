@@ -47,11 +47,11 @@
  * Trabalho Voluntário: Voluntário em duas ONGs, com foco na proteção ambiental e inclusão social de jovens em situação de risco.
 
 ## TRAJETÓRIA PROFISSIONAL ##
- * B2W Digital | Team Leader FullStack - 08/2017 - Atual
- * B2W Digital | Desenvolvedor FullStack - 04/2016 - 08/2017
- * B2W Digital | Desenvolvedor Front-End Pleno - 06/2015 - 04/2016
- * B2W Digital | Desenvolvedor Front-End Jr - 10/2014 - 06/2015
- * RR Donnelley - Desenvolvedor Front-End Jr - 03/2013 - 09/2014
+ * B2W Digital – Team Leader FullStack - 08/2017 - Atual
+ * B2W Digital – Desenvolvedor FullStack - 04/2016 - 08/2017
+ * B2W Digital – Desenvolvedor Front-End Pleno - 06/2015 - 04/2016
+ * B2W Digital – Desenvolvedor Front-End Jr - 10/2014 - 06/2015
+ * RR Donnelley – Desenvolvedor Front-End Jr - 03/2013 - 09/2014
  * RR Donnelley – Freelance em Desenvolvimento Web - 02/2012 - 02/2013
  * Observatório Nacional – GPA – Participação nos projetos DES-BRAZIL, CITIO, SLOAN, Astrosoft e LINEA. 05/2009 – 12/2010
  * Estagio na São Jorge Cascadura Atacadista como “Desenvolvedor Web”. 01/2009 – 04/2009

@@ -2,7 +2,7 @@ title: About me
 description: Meu curriculo
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions

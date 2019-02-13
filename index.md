@@ -21,7 +21,7 @@
 
 *   Graduação Tecnológica em Sistemas para Internet, Universidade Estácio de Sá, 2008.1 – 2010.2
 *   University Graduate Technology in Systems for Internet, Estácio de Sá University, 2008.1 – 2010.2
-*   Ensino Médio/Hight School – Escola Estadual Cabo Verde – 2005 - 2007
+*   Ensino Médio/High School – Escola Estadual Cabo Verde – 2005 - 2007
 
 ## CERTIFICAÇÕES / CERTIFICATIONS
 

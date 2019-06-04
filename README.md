@@ -89,7 +89,7 @@
 
 ## EXPERIÊNCIA PROFISSIONAL / PROFESSIONAL EXPERIENCE
 
-*   B2W Digital – Dev FullStack - 04/2016 - 08/2017
+*   B2W Digital – Dev FullStack - 04/2016
 *   B2W Digital – Dev Front-End Pleno - 06/2015 - 04/2016
 *   B2W Digital – Dev Front-End Jr - 10/2014 - 06/2015
 *   RR Donnelley – Dev Front-End Jr - 03/2013 - 09/2014

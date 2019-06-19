@@ -4,9 +4,9 @@
 
 *   André Filipe de Moraes Goulart
 *   Brasileiro - Casado - Nascido em 1988
-*   Brazilian - Married - Birth Year 1988
+    *   Brazilian - Married - Birth Year 1988
 *   End. Rua Aladim, 88 / bl 03 apto 506
-*   Address. 88/506 Aladim Street, Block 03
+    *   Address. 88/506 Aladim Street, Block 03
 *   Vila Valqueire - Rio de Janeiro - RJ – CEP/ZIP 21.330-100
 *   E-mail: afgoulart.rj@gmail.com
 *   Tel/Phone.: +55 (21) 98536 4597
@@ -15,12 +15,12 @@
 ## OBJETIVO / PURPOSE
 
 *   Atuar com ética e energia, contribuindo com meus conhecimentos para agregar valor à empresa, ao mesmo tempo em que construo valores e invisto no desenvolvimento pessoal
-*   Acting with ethics and energy, contributing with my knowledge to add value to the company, at the same time I build values and invest in personal development
+    *   Acting with ethics and energy, contributing with my knowledge to add value to the company, at the same time I build values and invest in personal development
 
 ## FORMAÇÃO ACADÊMICA / EDUCATION BACKGROUND
 
 *   Graduação Tecnológica em Sistemas para Internet, Universidade Estácio de Sá, 2008.1 – 2010.2
-*   University Graduate Technology in Systems for Internet, Estácio de Sá University, 2008.1 – 2010.2
+    *   University Graduate Technology in Systems for Internet, Estácio de Sá University, 2008.1 – 2010.2
 *   Ensino Médio/High School – Escola Estadual Cabo Verde – 2005 - 2007
 
 ## CERTIFICAÇÕES / CERTIFICATIONS
@@ -32,43 +32,29 @@
 ## QUALIFICAÇÃO EM TI
 
 <dl>
-
-<dt>Front-End</dt>
-
-<dd>HTML5</dd>
-
-<dd>CSS3</dd>
-
-<dd>AngularJS</dd>
-
-<dd>ReactJS</dd>
-
-<dd>Design Responsível - Mobile First</dd>
-
-<dt>Back-End</dt>
-
-<dd>NodeJS</dd>
-
-<dd>GoLang</dd>
-
-<dd>Python</dd>
-
-<dd>PHP</dd>
-
-<dt>Test/Teste</dt>
-
-<dd>E2E</dd>
-
-<dd>Unit</dd>
-
-<dt>DevOps</dt>
-
-<dd>Docker</dd>
-
-<dd>BD - Mongo, PostegreSQL, MySQL, SQL Server 2008, Maria</dd>
-
-<dd>AWS (ElasticBeanstalk, ECS, RDS, CloudWatch, Lambda, SQS, LB)</dd>
-
+    <dt>Front-End</dt>
+        <dd>HTML5</dd>
+        <dd>CSS3</dd>
+        <dd>AngularJS</dd>
+        <dd>ReactJS</dd>
+        <dd>Design Responsível - Mobile First</dd>
+    <dt>Back-End</dt>
+        <dd>NodeJS</dd>
+        <dd>GoLang</dd>
+        <dd>Python</dd>
+        <dd>PHP</dd>
+        <dt>Test/Teste</dt>
+        <dd>E2E</dd>
+        <dd>Unit</dd>
+    <dt>DevOps</dt>
+        <dd>Docker</dd>
+        <dd>AWS (ElasticBeanstalk, ECS, RDS, CloudWatch, Lambda, SQS, LB)</dd>
+    <dt>Database</dt>
+        <dd>Mongo</dd>
+        <dd>Cassandra</dd>
+        <dd>PostegreSQL</dd>
+        <dd>MySQL</dd>
+        <dd>Maria</dd>
 </dl>
 
 ## LÍNGUAS / LANGUAGES
@@ -79,20 +65,27 @@
 ## HABILIDAES PESSOAIS
 
 *   Aprendizagem rápida
-*   Fast to learn
+    *   Fast to learn
 *   Facilidades nos Trabalhos em Equipe
-*   Facilities in teamwork
-*   Ease in Interpersonal Relationships
+    *   Facilities in teamwork
 *   Facilities in Realationship
+    *   Ease in Interpersonal Relationships
 *   Trabalho Voluntário: Voluntário em duas ONGs, com foco na proteção ambiental e inclusão social de jovens em situação de risco
-*   Voluntary Work: I volunteered in two NGOs, focusing on environmental protection and social inclusion of at-risk youth
+    *   Voluntary Work: I volunteered in two NGOs, focusing on environmental protection and social inclusion of at-risk youth
 
 ## EXPERIÊNCIA PROFISSIONAL / PROFESSIONAL EXPERIENCE
 
 *   B2W Digital – Dev FullStack - 04/2016
+    * Developing NodeJS and Golang APIs
+    * Developing Front-end with React and NodeJS
 *   B2W Digital – Dev Front-End Pleno - 06/2015 - 04/2016
-*   B2W Digital – Dev Front-End Jr - 10/2014 - 06/2015
+    * I was member of team that rewritten http://www.americanas.com, http://www.submarino.com.br and http://www.shoptime.com.br web sites from java to react + Node (isomorphic render)
+*   B2W Digital – Dev Front-End Pleno - 10/2014 - 06/2015
+    * Developer responsable to mantain http://www.submarino.com.br web site (HTML + CSS and jQuery)
 *   RR Donnelley – Dev Front-End Jr - 03/2013 - 09/2014
+    * Developer many IR websites as front-end using ASP.net (HTML + CSS + JS)
+    * Responsabled for create plugins jQuery to automatic render components 
 *   RR Donnelley – Freelance (Web Developer) - 02/2012 - 02/2013
-*   Observatório Nacional – GPA – Participação nos projetos DES-BRAZIL, CITIO, SLOAN, Astrosoft e LINEA. 05/2009 – 12/2010
+    * Developer many IR websites as front-end using ASP.net (HTML + CSS + JS)
 *   National Observatory – GPA – Participation in projects DES-BRAZIL, CITIO, SLOAN, Astrosoft and LINEA. 05/2009 – 12/2010
+    * Member of team create and mantain an website to cientists estudy dark ligth from space using tables and graph.

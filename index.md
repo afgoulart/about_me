@@ -75,7 +75,7 @@
 
 ## EXPERIÊNCIA PROFISSIONAL / PROFESSIONAL EXPERIENCE
 *   Mosaico - Full Stack Engineer 08/2019 - Present
-    * Developing with NodeJS, React and any Java Applications
+    * Developing with NodeJS, React and some Java Applications
     * Suporting with Agile Methods
 *   B2W Digital – Dev FullStack - 04/2016 - 07/2019
     * Developing with NodeJS and Golang APIs

@@ -74,10 +74,12 @@
     *   Voluntary Work: I volunteered in two NGOs, focusing on environmental protection and social inclusion of at-risk youth
 
 ## EXPERIÊNCIA PROFISSIONAL / PROFESSIONAL EXPERIENCE
-
-*   B2W Digital – Dev FullStack - 04/2016
-    * Developing NodeJS and Golang APIs
-    * Developing Front-end with React and NodeJS
+*   Mosaico - Full Stack Engineer 08/2019 - Present
+    * Developing with NodeJS, React and any Java Applications
+    * Suporting with Agile Methods
+*   B2W Digital – Dev FullStack - 04/2016 - 07/2019
+    * Developing with NodeJS and Golang APIs
+    * Developing with Front-end with React and NodeJS
 *   B2W Digital – Dev Front-End Pleno - 06/2015 - 04/2016
     * I was member of team that rewritten http://www.americanas.com, http://www.submarino.com.br and http://www.shoptime.com.br web sites from java to react + Node (isomorphic render)
 *   B2W Digital – Dev Front-End Pleno - 10/2014 - 06/2015

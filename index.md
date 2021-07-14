@@ -5,9 +5,7 @@
 *   André Filipe de Moraes Goulart
 *   Brasileiro - Casado - Nascido em 1988
     *   Brazilian - Married - Birth Year 1988
-*   End. Rua Aladim, 88 / bl 03 apto 506
-    *   Address. 88/506 Aladim Street, Block 03
-*   Vila Valqueire - Rio de Janeiro - RJ – CEP/ZIP 21.330-100
+*   Vila Valqueire - Rio de Janeiro - RJ
 *   E-mail: afgoulart.rj@gmail.com
 *   Tel/Phone.: +55 (21) 98536 4597
 *   in: http://br.linkedin.com/in/afgoulart

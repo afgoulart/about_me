@@ -5,7 +5,7 @@
 *   André Filipe de Moraes Goulart
 *   Brasileiro - Casado - Nascido em 1988
     *   Brazilian - Married - Birth Year 1988
-*   Vila Valqueire - Rio de Janeiro - RJ
+*   Laranjeiras - Rio de Janeiro - RJ
 *   E-mail: afgoulart.rj@gmail.com
 *   Tel/Phone.: +55 (21) 98536 4597
 *   in: http://br.linkedin.com/in/afgoulart
@@ -72,7 +72,8 @@
     *   Voluntary Work: I volunteered in two NGOs, focusing on environmental protection and social inclusion of at-risk youth
 
 ## EXPERIÊNCIA PROFISSIONAL / PROFESSIONAL EXPERIENCE
-*   Mosaico - Full Stack Engineer 08/2019 - Present
+*   Mosaico - Expert Full Stack Engineer 01/2022 - 06/2023
+*   Mosaico - Full Stack Engineer 08/2019 - 01/2022
     * Developing with NodeJS, React and some Java Applications
     * Suporting with Agile Methods
 *   B2W Digital – Dev FullStack - 04/2016 - 07/2019
